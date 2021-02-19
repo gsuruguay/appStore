@@ -6,8 +6,8 @@
     <br>
 </p>
 
-Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
-developing complex Web applications with multiple tiers.
+The project has a registration screen and a login screen. Then, entering the system as a developer, you will see the list of the applications you published, enter the details of each one, edit information or delete it. The developer is the one who creates the app through a form. If you log in as a customer user, you will see the list of applications you bought and see the details. Users who are not registered or logged in can go through the categories, see the
+apps, detail and add it to buy.
 
 The template includes three tiers: front end, back end, and console, each of which
 is a separate Yii application.
