@@ -6,7 +6,6 @@
     <br>
 </p>
 
-El proyecto tiene una pantalla de registro y una pantalla de inicio de sesión. Luego, ingresando al sistema como desarrollador, verá la lista de las aplicaciones que publicó, ingrese los detalles de cada una, edite información o elimínela. El desarrollador es quien crea la aplicación a través de un formulario. Si inicia sesión como usuario cliente, verá la lista de aplicaciones que compró y verá los detalles. Los usuarios que no están registrados o conectados pueden pasar por las categorías, consulte la
-aplicaciones, detalle y agréguelo para comprar.
+El proyecto tiene una pantalla de registro y una pantalla de inicio de sesión. Luego, ingresando al sistema como desarrollador, verá la lista de las aplicaciones que publicó, ingresar a los detalles de cada una, editar información o elimínarla. El desarrollador es quien crea la aplicación a través de un formulario, sube imagenes y coloca el precio de la misma. Si inicia sesión como usuario cliente, verá la lista de aplicaciones que compró y verá los detalles. Los usuarios que no están registrados o conectados pueden pasar por las categorías, consultar las aplicaciones, detalles y agrégarlas para comprar en un carrito de compras.
 
 
