@@ -11,14 +11,14 @@ El proyecto tiene una pantalla de registro y una pantalla de inicio de sesión. 
 ## Construido con 🛠️
 
 * **Yii** - El framework web usado
-* **Php
-* **MySql
-* **Javascript
-* **Ajax
-* **Jquery
-* **Bootstrap
-* **Html5
-* **Css
+* **Php**
+* **MySql**
+* **Javascript**
+* **Ajax**
+* **Jquery**
+* **Bootstrap**
+* **Html5**
+* **Css**
 
 ## Autor ✒️
 
